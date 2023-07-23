@@ -1,6 +1,6 @@
 ### Hey there! 👋 I'm ✨Aaron Kemp✨.
 
-Over the past 10+ years, I've been diving deep into the world of software development, and man, it's been a wild ride! � From crafting lines of C# to architecting solutions with ASP.NET, and juggling data with SQL, I've done it all. Got a thing for Typescript and Angular? Me too! 🔭
+Over the past 10+ years, I've been diving deep into the world of software development, and man, it's been a wild ride! 💪 From crafting lines of C# to architecting solutions with ASP.NET, and juggling data with SQL, I've done it all. Got a thing for Typescript and Angular? Me too! 🔭
 
 My adventures with SQL Server and Azure have given me some serious cloud chops. And let's not forget the magic of DevOps - it's like the secret sauce that brings it all together. 🌱
 
